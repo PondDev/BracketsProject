@@ -1,6 +1,6 @@
 # BracketsProject
 
-Unity Version: 2019.4.
+Unity Version: 2019.4.16
 
 I've made the scripts available from [] Project to be used as a code sample. You can get a build of the complete project [here](https://drive.google.com/drive/u/1/folders/1FALVlFqc8NRVv0Rt5Vjqaa3eSdKyvzB0?usp=sharing).
 All project files can be made available on request.
